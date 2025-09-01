@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: tan;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color:black;
+    font-size: 50px;
+}
+
+p {
+    color: black;
+    font-size: 40px;
+}
+
+a {
+    color: white;
+}
+
+.center-title {
+    text-align: center;
+}
+.description {
+    font-size: 20px;
+    color: darkslategray;
+}
+.historydescription {
+    font-size: 16px;
+    color: dimgray;
+}
+.otherhobbies {
+    font-size: 20px;
+    color: black;
+}
+.video-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
